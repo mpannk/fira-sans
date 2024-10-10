@@ -1,0 +1,5 @@
+@font-face {
+  font-family: 'Fira Sans';
+  src: url('../fonts/firasans/Firasansbold.woff') format('woff'),
+    url('../fonts/firasans/Firasansbold.woff2') format('woff2');
+}
